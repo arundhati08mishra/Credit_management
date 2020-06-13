@@ -5,6 +5,6 @@ A Credit Management app with following functionalities :
 -> Creation of new user
 -> View list of Transactions
 
-The demo video link of app:
+The link of demo video of app:
 https://youtu.be/93cooz0KnQI
 
