@@ -6,5 +6,5 @@ A Credit Management app with following functionalities :
 -> View list of Transactions
 
 The link of demo video of app:
-https://youtu.be/93cooz0KnQI
+https://youtu.be/oKmBcpOONTc
 
